@@ -1,1 +1,2 @@
 2025-01-19 03:09:58 update version
+2025-03-01 12:11:01 update docs with examples
