@@ -41,3 +41,4 @@
 2025-05-29 15:27:38 better error handling
 2025-01-28 04:57:23 cleanup code
 2025-08-10 22:33:54 update build script
+2025-05-09 17:44:55 update LICENSE
